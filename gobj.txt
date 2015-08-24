@@ -1,0 +1,17 @@
+
+-----
+Time: 2015-08-21 08:18:03 +0200
+Memory Leak #<Sprite:0x6fdeda4>
+In Scene Scene_Gameover
+Creation Stack:: 
+Script 0186 --       Game Over Event, Line: 257:in `start'
+Script 0107 -- ▼ Scenes, Line: 21:in `main'
+Script 0205 -- , Line: 159:in `main'
+Script 0008 --    SceneManager, Line: 23:in `run'
+Script 0185 --       Screenshot, Line: 931:in `run'
+Script 0209 -- ■ Main Process, Line: 14:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0209 -- ■ Main Process, Line: 14:in `<main>'
+ruby:in `eval'
