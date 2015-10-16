@@ -1,0 +1,22 @@
+---------------------
+  [Title] Judul cerita
+  Konten cerita Konten cerita Konten cerita Konten cerita Konten cerita 
+  Konten cerita Konten cerita Konten cerita Konten cerita Konten cerita 
+  Konten cerita Konten cerita Konten cerita Konten cerita Konten cerita 
+  <P>Konten cerita Konten cerita Konten cerita Konten cerita Konten cerita 
+  Konten cerita Konten cerita Konten cerita Konten cerita Konten cerita 
+  Konten cerita Konten cerita Konten cerita Konten cerita Konten cerita 
+  
+  Gunakan <P> ato [page] buat misahin konten cerita pada page yg berbeda.
+  Kamu juga bisa gunain escape character yang ada dalam message seperti
+  \C[1], \N[1], \V[1] dst ...
+  
+  Contoh :
+ ---------------------
+  [Title] Lipsum
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in ultrices 
+  nulla, vel pharetra diam. Nunc faucibus pretium leo, a lacinia erat posuere 
+  ut. Etiam porttitor enim et bibendum facilisis. Praesent eu elit ut metus 
+  tempus aliquet. Cras tempor mauris sapien, ut laoreet quam condimentum ut. 
+  <P>Aliquam aliquet ut quam vel sollicitudin. Fusce vestibulum semper sapien 
+  nec luctus. Sed rhoncus, neque vitae

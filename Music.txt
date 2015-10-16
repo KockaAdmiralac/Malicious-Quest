@@ -1,0 +1,53 @@
+Type	BGM				Map
+Map 	009				Cutscene4=>Cutscenes
+Play	009				New Ware Town=>Towns
+Map 	017				New Ware Town=>Towns
+Map 	001				Lolly Town=>Towns
+Play	023				Route01=>Routes
+Play	009				Floor01=>House001=>Whitown=>Towns
+Map 	010				Cave01=>Forest003=>Whitown=>Towns
+Map 	013				Baron Lake=>Raintown=>Towns
+Map 	012				House003=>Raintown=>Towns
+Map 	004				Cave001=>GMC
+Map 	004				Cave003=>GMC
+Map 	024				Cutscene5=>Cutscenes
+Map 	026				Cutscene7=>Cutscenes
+Map 	004				Cave007=>GMC
+Map 	004				Cave008=>GMC
+Map 	016				Castle=>Baron Lake=>Raintown=>Towns
+Map 	014				Catacombs=>House003=>Raintown=>Towns
+Play	015				End=>House003=>Raintown=>Towns
+Map 	004				Cave001=>Route01=>Routes
+Map 	021				Basement01=>House008=>Esteban City=>Towns
+Map 	001				House003=>Lolly Town=>Towns
+Map 	004				Tunnels=>Basement=>House001=>Armadillo Town=>Towns
+Map 	004				Sewer001=>Whitown=>Towns
+Map 	002				Basement=>House003=>Lolly Town=>Towns
+Map 	001				Esteban City=>Towns
+Map 	003				Armadillo Town=>Towns
+Map 	029				Whitown=>Towns
+Map 	013				Raintown=>Towns
+Play	009				House011=>Esteban City=>Towns
+Map 	012				House006=>Ingrid City=>Towns
+Play	019				Ruins=>Runderghal=>Oblivion Lake=>Esteban City=>Towns
+Play	020				Floor01=>House008=>Esteban City=>Towns
+Map 	001				Floor01=>House008=>Esteban City=>Towns
+Map 	003				Castle=>Armadillo Town=>Towns
+Map 	011				Basement02=>House005=>Ingrid City=>Towns
+Map 	004				Sewer01=>Raintown=>Towns
+Play	023				Floor01=>House009=>Esteban City=>Towns
+Play	008				Floor01=>House003=>Esteban City=>Towns
+Map 	006				Floor01=>Castle=>Armadillo Town=>Towns
+Play	005				Basement=>Castle=>Armadillo Town=>Towns
+Play	009				Floor02=>Castle=>Armadillo Town=>Towns
+Play	008				Floor02=>Castle=>Armadillo Town=>Towns
+Map 	006				Floor02=>Castle=>Armadillo Town=>Towns
+Map 	024				Cutscene1=>Cutscenes
+Play	022				Basement02=>House008=>Esteban City=>Towns
+Play	009				Basement01=>House002=>Esteban City=>Towns
+Map 	028				Cutscene2=>Cutscenes
+Map 	018				Oblivion Lake=>Esteban City=>Towns
+Map 	004				Cave009=>GMC
+Map 	025				Cutscene0=>Cutscenes
+Map 	002				Basement=>House003=>Oblivion Lake=>Esteban City=>Towns
+Map 	027				Cutscene3=>Cutscenes

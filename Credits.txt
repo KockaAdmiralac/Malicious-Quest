@@ -1,0 +1,183 @@
+Candacis :
+	Tilesets (2) :
+		Exterior_D7
+		Exterior_E2
+	Characters (25) :
+		Barndoor (2)
+		Big Fire (3)
+		Flames (2)
+		Lampions
+		Pub flames (2)
+		Piggy (6)
+		Talking mirror
+		Big Cow
+		Cake
+		Children
+		Farm animals (2)
+		Hunter sprites
+		Music Band
+		Schlitten Sprite
+		
+Matseb2611 : 
+	Animations (6) :
+		Blood1
+		Blood2
+		Crosshair
+		Fireballs
+		Food Items
+		Mystic Symbols
+	Characters (112) :
+		Doors (17)
+		Abaddon
+		Aliens (12)
+		Angels (10)
+		Animated Eye
+		Athena
+		Bee Swarm
+		Blinking Eye
+		Chinese Dragons (3)
+		Death tall (3)
+		Decorations
+		Exploding present
+		Fireworks (5)
+		Fly Swarm
+		Golems (3)
+		Hades
+		Horseman (4)
+		Monsters (6)
+		Ophanim
+		Reaper
+		Roman soldiers (2)
+		Save Point (2)
+		Sci-fi (4)
+		Seraph
+		Zombies (6)
+		Glowing Decorations (4)
+		Roman Soldiers
+		Soldiers ALL
+		
+		
+Elise : 
+	Animations (3) :
+		Aura1
+		Aura2
+		Blow4
+
+Timmah :
+	Animations (77) :
+		Can't number them :)
+	
+DjdarkX
+	Battleback 1 + 2 (1) :
+		Stormy Grassland
+		
+Allusion
+	Character (1) :
+		Voice
+		
+Anysaurus
+	Character (1) :
+		Jesters
+		
+Archeia : 
+	Characters (2) :
+		Mage_F
+		
+Archeia + OceanDream : 
+	Charcters (1) :
+		Arshes and Basil
+		
+Archeia + Scinaya :
+	Charcters (1) :
+		Ralphia
+		
+Avery : 
+	Characters (5) :
+		Doors
+		Big Monster Tree
+		TreeChest
+		Springgoddess
+		
+Caz : 
+	Characters (13) :
+		Rat
+
+		
+hiddenone :
+	Characters (6) :
+		Santa Sleigh
+		Chickens
+		Clowns
+		Ducks swimming
+		Ducks
+		Squirrel
+	
+		
+Liberty :
+	Characters (2) :
+		veZHTRb (Doors)
+		Coffins
+		
+mlogan : 
+	Characters (1) :
+		Christmas Sprites
+		
+Palladinthug :
+	Characters (41) :
+		Lights (5)
+		Chests (2)
+		Fountain head
+		Chromatic Switch
+		Emmet
+		Alien-insectoids
+		Mushrooms
+		
+PandaMaru :
+	Characters (22):
+		Halloween Trees (3)
+		Witches (5)
+		Windmill Arms
+		Door mill
+		Bee
+		Bride
+		Djinn (2)
+		Kiss
+		Mother and Baby
+		
+Qtpi :
+	Characters (2) :
+		Geisha
+		Monk
+		
+Shiro : 
+	Characters (2):
+		Dwarf Warrior
+
+Shiro + Thalzon :
+	Characters (1) :
+		Tree Ent
+		
+slimmeiske2 :
+	Characters (11) :
+		Red (2)
+		Alice (4)
+		Cats (2)
+		Queen of Hearts
+		Elvish
+		
+Strawberii :
+	Characters (1) :
+		Darkskinned Man
+		
+Thalzon :
+	Characters (2) :
+		Pirate Girl
+		Sailor
+		
+Little Robot Sound Factory :
+	ME (1) :
+		Win1
+		Win2
+
+Skeezixs1
+	BattleStart (1)
